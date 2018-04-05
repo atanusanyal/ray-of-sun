@@ -1,0 +1,150 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/gUoixH/ray_of_sun_wallpaper_1.jpg",
+				"thumbUrl": "https://preview.ibb.co/gUoixH/ray_of_sun_wallpaper_1.jpg",
+				"name": "Wallpaper 1",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/cDcMjx/ray_of_sun_wallpaper_2.jpg",
+				"thumbUrl": "https://preview.ibb.co/cDcMjx/ray_of_sun_wallpaper_2.jpg",
+				"name": "Wallpaper 2",
+                "category": "architecture"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/i66gjx/ray_of_sun_wallpaper_3.jpg",
+				"thumbUrl": "https://preview.ibb.co/i66gjx/ray_of_sun_wallpaper_3.jpg",
+				"name": "Wallpaper 3",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/cj4OxH/ray_of_sun_wallpaper_4.jpg",
+				"thumbUrl": "https://image.ibb.co/cj4OxH/ray_of_sun_wallpaper_4.jpg",
+				"name": "Wallpaper 4",
+                "category": "mountain"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/kLME4x/ray_of_sun_wallpaper_5.jpg",
+				"thumbUrl": "https://preview.ibb.co/kLME4x/ray_of_sun_wallpaper_5.jpg",
+				"name": "Wallpaper 5",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/mxOSPx/ray_of_sun_wallpaper_6.jpg",
+				"thumbUrl": "https://image.ibb.co/mxOSPx/ray_of_sun_wallpaper_6.jpg",
+				"name": "Wallpaper 6",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/ktWaBc/ray_of_sun_wallpaper_8.jpg",
+				"thumbUrl": "https://image.ibb.co/ktWaBc/ray_of_sun_wallpaper_8.jpg",
+				"name": "Wallpaper 7",
+                "category": "forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/hGvVux/ray_of_sun_wallpaper_13.jpg",
+				"thumbUrl": "https://image.ibb.co/hGvVux/ray_of_sun_wallpaper_13.jpg",
+				"name": "Wallpaper 8",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/mR1aSH/ray_of_sun_wallpaper_15.jpg",
+				"thumbUrl": "https://image.ibb.co/mR1aSH/ray_of_sun_wallpaper_15.jpg",
+				"name": "Wallpaper 9",
+                "category": "city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/fhgLux/ray_of_sun_wallpaper_16.jpg",
+				"thumbUrl": "https://image.ibb.co/fhgLux/ray_of_sun_wallpaper_16.jpg",
+				"name": "Wallpaper 10",
+                "category": "forest,sunset"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/iPpZMc/ray_of_sun_wallpaper_14.jpg",
+				"thumbUrl": "https://image.ibb.co/iPpZMc/ray_of_sun_wallpaper_14.jpg",
+				"name": "Wallpaper 11",
+                "category": "mountain"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/kLe6Zx/ray_of_sun_wallpaper_17.jpg",
+				"thumbUrl": "https://image.ibb.co/kLe6Zx/ray_of_sun_wallpaper_17.jpg",
+				"name": "Wallpaper 12",
+                "category": "forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/nJhRZx/ray_of_sun_wallpaper_18.jpg",
+				"thumbUrl": "https://image.ibb.co/nJhRZx/ray_of_sun_wallpaper_18.jpg",
+				"name": "Wallpaper 13",
+                "category": "nature"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/m4UvSH/ray_of_sun_wallpaper_19.jpg",
+				"thumbUrl": "https://image.ibb.co/m4UvSH/ray_of_sun_wallpaper_19.jpg",
+				"name": "Oleiros, Portugal",
+                "category": "Wallpaper 14"
+			}
+            
+		]
+}

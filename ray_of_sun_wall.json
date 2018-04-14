@@ -151,7 +151,42 @@
 				"thumbUrl": "https://image.ibb.co/eA7yzx/ray_of_sun_wallpaper_20.jpg",
 				"name": "Wallpaper 15",
                 "category": "Wallpaper 14"
-			}	
+			},
+	     {
+				"author": "Google",
+				"url": "https://image.ibb.co/d0Z7sS/Google_Spring_2018_Wallpapers_2.png",
+				"thumbUrl": "https://image.ibb.co/d0Z7sS/Google_Spring_2018_Wallpapers_2.png",
+				"name": "Wallpaper 16",
+                "category": "Wallpaper 14"
+			},
+	     {
+				"author": "Google",
+				"url": "https://image.ibb.co/kSLfCS/Google_Spring_2018_Wallpapers_3.png",
+				"thumbUrl": "https://image.ibb.co/kSLfCS/Google_Spring_2018_Wallpapers_3.png",
+				"name": "Wallpaper 17",
+                "category": "Wallpaper 14"
+			},
+	      {
+				"author": "Google",
+				"url": "https://image.ibb.co/bGive7/Google_Spring_2018_Wallpapers_4.png",
+				"thumbUrl": "https://image.ibb.co/bGive7/Google_Spring_2018_Wallpapers_4.png",
+				"name": "Wallpaper 18",
+                "category": "Wallpaper 14"
+			},
+	      {
+				"author": "Google",
+				"url": "https://preview.ibb.co/kAfxsS/Google_Spring_2018_Wallpapers_5.png",
+				"thumbUrl": "https://preview.ibb.co/kAfxsS/Google_Spring_2018_Wallpapers_5.png",
+				"name": "Wallpaper 19",
+                "category": "Wallpaper 14"
+			},
+	       {
+				"author": "Google",
+				"url": "https://preview.ibb.co/nzE1K7/Google_Spring_2018_Wallpapers_6.png",
+				"thumbUrl": "https://preview.ibb.co/nzE1K7/Google_Spring_2018_Wallpapers_6.png",
+				"name": "Wallpaper 20",
+                "category": "Wallpaper 14"
+			}
             
 		]
 }
